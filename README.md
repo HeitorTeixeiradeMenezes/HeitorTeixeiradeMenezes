@@ -24,3 +24,11 @@ Contato
 Instagram: @heitortdm - Me acompanhe no Instagram para ver minhas atualizações e projetos em desenvolvimento.
 
 Obrigado por visitar meu perfil!
+  
+  
+  
+  
+  <p align="center">
+  <img src="https://github.com/HeitorTeixeiradeMenezes/HeitorTeixeiradeMenezes.svg" alt="Snake animation" />
+</p>
+
