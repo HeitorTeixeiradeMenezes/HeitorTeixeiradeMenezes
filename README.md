@@ -25,9 +25,7 @@ Instagram: @heitortdm - Me acompanhe no Instagram para ver minhas atualizações
 
 Obrigado por visitar meu perfil!
   
-<p align="center">
-  <img src="https://github.com/HeitorTeixeiradeMenezes/HeitorTeixeiradeMenezes/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+![snake gif](https://github.com/HeitorTeixeiradeMenezes/HeitorTeixeiradeMenezes/blob/output/github-contribution-grid-snake.svg)
 
   
   
