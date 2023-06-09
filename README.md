@@ -28,7 +28,5 @@ Obrigado por visitar meu perfil!
   
   
   
-  <p align="center">
-  <img src="https://github.com/HeitorTeixeiradeMenezes/HeitorTeixeiradeMenezes.svg" alt="Snake animation" />
-</p>
+
 
